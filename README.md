@@ -15,9 +15,11 @@ filename - of image
 resolution - width of resulting skybox (Game engines generally support powers of 2 up to 4096)
 
 Original:
+
 ![Original](https://github.com/RaveCenter/SkyBoxGenerator/blob/master/example/mars.png)
 
 After:
+
 ![Front Image](https://github.com/RaveCenter/SkyBoxGenerator/blob/master/example/front_mars.png)
 ![Right Image](https://github.com/RaveCenter/SkyBoxGenerator/blob/master/example/right_mars.png)
 ![Back Image](https://github.com/RaveCenter/SkyBoxGenerator/blob/master/example/back_mars.png)
